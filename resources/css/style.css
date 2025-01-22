@@ -17,6 +17,34 @@ h2, h3{
     padding: 2%;
 }
 
+.guide{
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+p{
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+}
+
+.phone{
+    padding: 1.5%;
+}
+
+footer {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 10px; /*add pading*/
+    color: gray;
+    font-family: Verdana, sans-serif; /* Match your font */
+    font-size: 14px; /* Adjust the font size */
+    text-align: right;
+    width: 100%;
+}
+
 .download{
     display: flex;
     color: aquamarine;
